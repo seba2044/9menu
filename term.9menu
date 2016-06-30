@@ -1,2 +1,5 @@
+nvim
+ps -aux
+sudo
 ls -la
 ls -lah
