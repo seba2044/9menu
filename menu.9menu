@@ -1,0 +1,2 @@
+tmux send '9menu -label 'console' -bg lightblue -label term -file ~/.config/9menu/term.9menu -popup -teleport' ENTER
+9menu -bg lightblue -label 'X' -file ~/.config/9menu/x.9menu -popup -teleport

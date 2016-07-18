@@ -1,5 +1,7 @@
+help_term.sh
 nvim
 ps -aux
 sudo
+noice
 ls -la
 ls -lah
